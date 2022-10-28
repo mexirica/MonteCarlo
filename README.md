@@ -48,29 +48,8 @@ plt.ylabel('R$')
 plt.title(ticker)
 plt.plot(price_list);
 
-Image
+![image](https://user-images.githubusercontent.com/67772460/198576752-145c8928-87bc-4881-8757-cdcce4fc5941.png)
 
-Image
+![image](https://user-images.githubusercontent.com/67772460/198576776-03eb1a97-ec66-4550-9e28-a90c7590c2d7.png)
 
-Image
-
-Properties
-Assignees
-
-mexirica
-mexirica
-Status
-
-Done
-Convert to issue
-Archive
-Delete from project
-PYTHON
-View 1
-
-New view
-Fronteira Eficiente
-Long Short
-CAPM
-Monte Carlo
-Portfolio
+![image](https://user-images.githubusercontent.com/67772460/198576809-cf682017-65d6-4450-84c4-68d72101c3a6.png)
